@@ -13,7 +13,7 @@
 
 🤝 I am looking for projects that would help me to enhance my knowledge skills and learn something new in this boring world🤩
 
-💬Ask me about anything but not about DBMS😁
+💬Ask me about anything but not about DBMS 😁
 
 👁️‍🗨️Also I try to post questions from leetcode daily  (Tryin...XD😆)
 
