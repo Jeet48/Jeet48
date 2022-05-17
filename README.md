@@ -1,8 +1,12 @@
 # 💫About Me :
 🔭 I am currently working on Projects with ReactJs and MongoDB😵‍💫
+
 👯I am looking to work on any projects based on MERN Stack😪
+
 🤝 I am looking for projects that would help me to enhance my knowledge skills and learn something new🤩
+
 💬Ask me about anything but not about DBMS😁
+
 ⚡ Fun fact All of the 500 fastest supercomputers run Linux😂.
 
 ## 🌐Socials
