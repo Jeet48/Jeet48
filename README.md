@@ -1,13 +1,17 @@
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello!+I%27m+Jeet+Mondal.">
+
+
+
 
 
 ![giphy](https://user-images.githubusercontent.com/91423597/168882437-25b82b68-4280-442d-86e9-61c1c1eb5a96.gif)
-#
 
 
 
 
 
-# <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello!+I%27m+Jeet+Mondal.">
+
+
 
 
 # 💫About Me :
