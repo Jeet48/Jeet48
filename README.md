@@ -7,6 +7,9 @@
 ![sd1UqmkC](https://user-images.githubusercontent.com/91423597/168885802-93343dfa-740a-447f-9264-c730103ddb09.gif)
 
 
+# <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe&color=%233BF7F5&size=110&center=true&vCenter=true&width=1700&height=400&lines=Hello!+I%27m+Jeet+Mondal.">
+
+
 # 💫About Me :
 🔭 I am currently working on Projects with ReactJs and MongoDB😵‍💫
 
