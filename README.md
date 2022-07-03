@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=The+Nautigal&size=53&duration=4000&color=F71914&background=000000&center=true&width=500&height=90&lines=Hey!+I+am+Jeet+Mondal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=The+Nautigal&size=53&duration=4000&color=F71914&center=true&width=500&height=90&lines=Hey!+I+am+Jeet+Mondal)](https://git.io/typing-svg)
 
 
 
