@@ -27,7 +27,7 @@
 
 ⚡ Fun fact All of the 500 fastest supercomputers run Linux😂.
 
-## 🌐<h2>Let'S Connect</h2>
+<h2>## 🌐Let'S Connect</h2>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeet_m126) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeet1905321) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/jeet) 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](stax712@gmail.com)
 [![PORTFOLIO !](https://img.shields.io/badge/My%20-Portfolio-1abc9c.svg)](https://jeetfps.netlify.app/)
